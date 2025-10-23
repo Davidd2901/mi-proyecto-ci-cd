@@ -1,0 +1,12 @@
+{
+  "name": "mi-proyecto-ci-cd",
+  "version": "1.0.0",
+  "description": "Proyecto de pr\u00e1ctica CI/CD - Universidad de Guayaquil",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
